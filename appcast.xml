@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.9</title>
+      <pubDate>Wed, 30 Sep 2026 16:32:23 GMT</pubDate>
+      <sparkle:version>202609301829</sparkle:version>
+      <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Agents können jetzt in einem eigenen Git-Worktree arbeiten.</p><ul><li>Liegt der Ordner in einem Git-Repo, bietet „Neuer Agent“ die Option „Eigener Branch und Ordner“. Der Agent arbeitet dann in einer eigenen Kopie auf einem eigenen Branch, ohne anderen Agents in die Quere zu kommen.</li><li>Worktrees erscheinen in der Seitenleiste als „Repo › Branch“ mit eigenem Symbol.</li><li>„Worktree entfernen …“ löscht den Ordner, der Branch mit allen Commits bleibt. Bei Änderungen, die nicht committet sind, fragt Drover vorher nach.</li><li>Fragt Claude Code, ob es einem Ordner vertrauen darf, erklärt Drover das jetzt verständlich. In der Übersicht steht dort „Frage beantworten“ statt „Bestätigen“, damit Claude nicht versehentlich beendet wird.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.9/Drover-0.1.9.dmg" sparkle:edSignature="tLYfF56pyX9YtYVVQ5K25cxv6b92HYn9MXQFLDMfw3hSLFLnyKgwHkzdZ8SqihcK06RejZT9n6eUy2Z+/qxaAQ==" length="20361910" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.8</title>
       <pubDate>Wed, 30 Sep 2026 13:57:47 GMT</pubDate>
       <sparkle:version>202609301555</sparkle:version>
