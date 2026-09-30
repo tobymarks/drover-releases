@@ -5,5 +5,14 @@
     <link>https://github.com/tobymarks/drover-releases</link>
     <description>Updates for Drover</description>
     <language>en</language>
+    <item>
+      <title>Drover 0.1.2</title>
+      <pubDate>Wed, 30 Sep 2026 11:02:10 GMT</pubDate>
+      <sparkle:version>202609301259</sparkle:version>
+      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Drover aktualisiert sich ab dieser Version selbst.</p><ul><li>Updates: Drover sucht einmal am Tag nach neuen Versionen und installiert sie nach Rückfrage. Manuell über „Drover &gt; Nach Updates suchen …“.</li><li>Modell und Tiefe: Unter dem Eingabefeld wählst du Claudes Modell und die Tiefe für die laufende Sitzung. Deine Standardeinstellungen bleiben unverändert.</li><li>Modus: Die Leiste zeigt Claudes Modus (Auto, Manuell, Planen …). Shift+Tab oder ein Klick schaltet weiter.</li><li>Esc unterbricht einen arbeitenden Agent direkt aus dem Eingabefeld.</li><li>Anmeldung und Ersteinrichtung der CLIs lassen sich in der Gesprächsansicht erledigen.</li><li>Neue Agents starten ohne Fehlermeldung, die erste Anweisung wartet, bis der Agent bereit ist.</li><li>Eigene Nachrichten erscheinen wieder im Gespräch.</li><li>Claudes Vorschlag für die nächste Nachricht steht im Eingabefeld, Tab übernimmt ihn.</li><li>Behoben: Beim Tippen sprang der Cursor gelegentlich an den Anfang.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.2/Drover-0.1.2.dmg" sparkle:edSignature="UeaMnSn1VPD6fP4ZQRHfxSgCkLj5AnMr/PyyJIVwoP58kuSdEXModazwBmBeJujGeMBQvQ7SSS9OaYiFLLHTCA==" length="21338344" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
