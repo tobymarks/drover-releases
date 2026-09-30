@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.8</title>
+      <pubDate>Wed, 30 Sep 2026 13:57:47 GMT</pubDate>
+      <sparkle:version>202609301555</sparkle:version>
+      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Antworten lesen sich leichter.</p><ul><li>Die Antworten der Agents stehen in etwas größerer Schrift, mit mehr Zeilenabstand und mehr Luft zwischen Absätzen und Listenpunkten.</li><li>Aufzählungen und nummerierte Listen sind sauber eingerückt.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.8/Drover-0.1.8.dmg" sparkle:edSignature="d7MF6bTmtyX1IHfGnzyZWMh2QjcILzhN/GcgnvOfi75AimnveCPxV4Rk7bzsPcrES2548+jZ0QP7RrBuOgcPBA==" length="20310203" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.7</title>
       <pubDate>Wed, 30 Sep 2026 13:46:46 GMT</pubDate>
       <sparkle:version>202609301544</sparkle:version>
