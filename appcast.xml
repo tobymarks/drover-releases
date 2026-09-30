@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.10</title>
+      <pubDate>Wed, 30 Sep 2026 16:45:11 GMT</pubDate>
+      <sparkle:version>202609301842</sparkle:version>
+      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Antworten direkt aus der Mitteilung.</p><ul><li>Braucht ein Agent dich, zeigt die Mitteilung, worum es geht, zum Beispiel den Befehl, den er ausführen möchte. Die Antwortmöglichkeiten sind Knöpfe in der Mitteilung, bei Fragen gibt es zusätzlich ein Feld für eine eigene Antwort.</li><li>Ist ein Agent fertig, schreibst du die nächste Nachricht direkt in die Mitteilung.</li><li>Drover sendet eine Antwort nur, wenn noch genau dieselbe Frage offen ist, sonst öffnet sich der Agent. Die Knöpfe funktionieren nur bei entsperrtem Mac.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.10/Drover-0.1.10.dmg" sparkle:edSignature="6dIlSrDgi0MM3WQDT8JA7MVOr01wznVDhNxuNkU1wP3gpm58dw/K84x1Td/Yli/YHiirUpeLMD7yXMBh7eU6Dw==" length="20391485" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.9</title>
       <pubDate>Wed, 30 Sep 2026 16:32:23 GMT</pubDate>
       <sparkle:version>202609301829</sparkle:version>
