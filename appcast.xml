@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.5</title>
+      <pubDate>Wed, 30 Sep 2026 11:43:07 GMT</pubDate>
+      <sparkle:version>202609301340</sparkle:version>
+      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Neues Aussehen und mehr Platz zum Schreiben.</p><ul><li>Drover hat ein eigenes Erscheinungsbild: neues App-Symbol, eigene Farben für die Status in hellem und dunklem Modus, ein Akzent in Pflaume und Flieder.</li><li>„Braucht dich“ ist jetzt deutlicher markiert.</li><li>Das Eingabefeld ist von Anfang an zwei Zeilen hoch und wächst bis zehn Zeilen, mit mehr Innenabstand und etwas größerer Schrift.</li><li>In der Gesprächsansicht ist das Eingabefeld so breit wie das Gespräch.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.5/Drover-0.1.5.dmg" sparkle:edSignature="NcSFf93FxzrlmKV3E/2ExFCkFbLwxg188i9XT12Di07v4J5gXeU+9iqKtUIQ7cOA2OAYrfhgJL8kOqTfYYYEDQ==" length="20263979" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.3</title>
       <pubDate>Wed, 30 Sep 2026 11:06:40 GMT</pubDate>
       <sparkle:version>202609301304</sparkle:version>
