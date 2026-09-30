@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.12</title>
+      <pubDate>Wed, 30 Sep 2026 17:51:24 GMT</pubDate>
+      <sparkle:version>202609301948</sparkle:version>
+      <sparkle:shortVersionString>0.1.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Agents können melden, woran sie arbeiten.</p><ul><li>Meldet ein Agent über herdr einen Titel, steht er in der Seitenleiste und auf der Karte in der Übersicht unter seinem Namen.</li><li>Eigene Statustexte wie „wartet auf Review“ erscheinen in der Status-Plakette.</li><li>Kurze Angaben wie PR-Link, Branch oder Testergebnis erscheinen als Chips auf der Karte und über dem Gespräch. Links öffnen sich im Browser.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.12/Drover-0.1.12.dmg" sparkle:edSignature="bdpHrzJwlACFM0oCOc94OWh6Q6oQSRj+GGzkO5Fz2GcHWHZhJTBG5gnLM9LbXundB/sJB8kJwcm0DOc/m2pEAQ==" length="20476548" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.11</title>
       <pubDate>Wed, 30 Sep 2026 17:36:27 GMT</pubDate>
       <sparkle:version>202609301921</sparkle:version>
