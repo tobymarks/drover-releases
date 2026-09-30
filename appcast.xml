@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.6</title>
+      <pubDate>Wed, 30 Sep 2026 12:58:23 GMT</pubDate>
+      <sparkle:version>202609301456</sparkle:version>
+      <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Mehr Raum überall, und Fragen von Claude Code lassen sich jetzt richtig beantworten.</p><ul><li>Fragen mit Auswahl zeigen jede Option vollständig, mit Nummer, Beschreibung über mehrere Zeilen und dem Hinweis „Empfohlen“.</li><li>Eine eigene Antwort schreibst du einfach unten ins Eingabefeld. Vorher galt ein Klick auf „Type something.“ als Ablehnung der Frage.</li><li>In der Übersicht steht bei einer offenen Frage „Frage beantworten“ statt „Bestätigen“, damit nicht versehentlich die vorausgewählte Antwort gewählt wird.</li><li>Gespräch, Übersicht, Seitenleiste, Suche und „Neuer Agent“ haben mehr Abstand und einheitliche Knöpfe.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.6/Drover-0.1.6.dmg" sparkle:edSignature="7bI3QM2Y613MPdnoAIYyPDyUlD5Gje3aJ+0vonw2q4cWO8pwz0sLV8ULJkzK4/P7ZX3lm8SvojTB3BY3Wrh/AQ==" length="20304707" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.5</title>
       <pubDate>Wed, 30 Sep 2026 11:43:07 GMT</pubDate>
       <sparkle:version>202609301340</sparkle:version>
