@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.11</title>
+      <pubDate>Wed, 30 Sep 2026 17:36:27 GMT</pubDate>
+      <sparkle:version>202609301921</sparkle:version>
+      <sparkle:shortVersionString>0.1.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Umbenennen und eine Shell neben dem Agent.</p><ul><li>Agents, Shells und Workspaces lassen sich umbenennen, über das Kontextmenü in der Seitenleiste, das Menü „Mehr“ oder „Agents › Umbenennen …“.</li><li>„Shell daneben öffnen“ (⌘T) öffnet eine Shell im Ordner des Agents, etwa für einen Dev-Server oder Tests.</li><li>Behoben: Ein neuer Agent für einen bestehenden Workspace konnte in einem anderen Workspace landen.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.11/Drover-0.1.11.dmg" sparkle:edSignature="iq4ETJS/AydmKYWkSp3KPp5oxK+U5LSShYUdzgm/F7XQYcxsPiFyvherdFc2APjabT+UVVYAAEGsbsrKoiBnCA==" length="20427770" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.10</title>
       <pubDate>Wed, 30 Sep 2026 16:45:11 GMT</pubDate>
       <sparkle:version>202609301842</sparkle:version>
