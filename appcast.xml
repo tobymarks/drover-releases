@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.7</title>
+      <pubDate>Wed, 30 Sep 2026 13:46:46 GMT</pubDate>
+      <sparkle:version>202609301544</sparkle:version>
+      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Fragen von Claude Code lassen sich jetzt auch offen lassen.</p><ul><li>Mit „Erst darüber sprechen“ beantwortest du eine Frage nicht, sondern Claude fragt nach, was unklar ist. Bisher fehlte diese Möglichkeit in Drover.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.7/Drover-0.1.7.dmg" sparkle:edSignature="QLO85czdwIM1Pa1AtLDZ/1ABXtgX0QRa36tRt5teath6x8KIyMk4jNAfUEc2GzNuz1+fA74e0h4RXWp2oHQDDw==" length="20309679" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.6</title>
       <pubDate>Wed, 30 Sep 2026 12:58:23 GMT</pubDate>
       <sparkle:version>202609301456</sparkle:version>
