@@ -6,6 +6,15 @@
     <description>Updates for Drover</description>
     <language>en</language>
     <item>
+      <title>Drover 0.1.13</title>
+      <pubDate>Wed, 30 Sep 2026 19:04:02 GMT</pubDate>
+      <sparkle:version>202609302059</sparkle:version>
+      <sparkle:shortVersionString>0.1.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Drover behält die Ausgabe im Blick.</p><ul><li>„Ausgabe beobachten …“ meldet sich, sobald in einem Terminal eine neue Zeile erscheint, die passt: mit den Vorlagen „Fehler“ und „Server bereit“ oder einem eigenen Text oder regulären Ausdruck.</li><li>Ein Wächter meldet jeden Treffer oder nur den ersten. Was schon im Terminal stand, zählt nicht.</li><li>Beobachtete Terminals tragen ein Augen-Symbol in der Seitenleiste. Die Wächter bleiben erhalten, bis das Terminal geschlossen wird.</li></ul>]]></description>
+      <enclosure url="https://github.com/tobymarks/drover-releases/releases/download/v0.1.13/Drover-0.1.13.dmg" sparkle:edSignature="DO3UltRIcjBs72TddtrId7KJYfDuBJc1xMhAZBum3zkBpWR7zAEiBQXpWb276SA3//WDz6VkKrb3yTxOv1whCQ==" length="20551158" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Drover 0.1.12</title>
       <pubDate>Wed, 30 Sep 2026 17:51:24 GMT</pubDate>
       <sparkle:version>202609301948</sparkle:version>
